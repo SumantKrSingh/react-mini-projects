@@ -1,12 +1,45 @@
-# React + Vite
+# Contact Us Page 📞
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Contact Us form** built with **React.js**, focusing on component reusability and modular styling.  
+This project demonstrates how to break down a UI into smaller parts and manage them with props and CSS modules.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+[View Project Here](https://starlit-brigadeiros-ce9993.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![Contact Us Page Screenshot](./public/image.png)
+
+---
+
+## ⚡ Features
+
+- Clean and responsive UI
+- Separate **components** for Header, Navbar, Form, and Buttons
+- Reusable **Button component** with `variant` prop for different styles
+- Organized structure with **CSS Modules** (`Component.module.css`)
+- Static form layout (no backend integration yet)
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- CSS Modules
+- Vite
+
+---
+
+## 📚 What I Learned
+
+- How to break a page into smaller reusable React components
+- Passing props for customization (like `variant` for buttons)
+- Managing styles using **CSS modules** for better scoping
+- Building a responsive layout
+
+---
