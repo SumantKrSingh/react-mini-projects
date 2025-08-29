@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+:root {
+    font-size: 62.5%;
+    --red: #FF2929;
+    --grey: #5b5e59;
+    --white: #EFEEEA;
+    --black: #000000;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--white);
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.main_container {
+    height: calc(100vh - 7.2rem);
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width: 431px) {
+    * {
+        overflow: hidden;
+    }
+
+    .container {
+        max-width: 400px;
+    }
+}
