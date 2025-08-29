@@ -1,18 +1,18 @@
 # React Mini Projects 🚀
 
-A collection of small, focused **React.js projects** to practice and improve my frontend development skills.  
-Each project is built with **React + Vite** and deployed for live preview.
+This repository contains small React.js projects I’m building while learning React.  
+Each project has its own folder with a separate README for details.
 
 ---
 
-## 📂 Projects
+## 📂 Projects in this Repo
 
 ### 1. Nike Landing Page 👟
 
-A clean and modern static landing page inspired by Nike, focusing on layout, components, and styling.
+A simple static landing page design.
 
 🔗 [Live Demo](https://react-mini-projects-beta.vercel.app/)  
-📂 [Source Code](https://github.com/SumantKrSingh/react-mini-projects/tree/main/nike-homepage)
+📂 [Source Code](./nike-homepage/)
 
 ---
 
@@ -21,8 +21,8 @@ A clean and modern static landing page inspired by Nike, focusing on layout, com
 A responsive contact form with reusable components, props-based customization, and CSS modules.
 
 🔗 [Live Demo](https://starlit-brigadeiros-ce9993.netlify.app/)  
-📂 [Source Code](https://github.com/SumantKrSingh/react-mini-projects/tree/main/contact-form)
+📂 [Source Code](./contact-form/)
 
 ---
 
-✨ More projects coming soon…
+✨ More projects will be added soon!
