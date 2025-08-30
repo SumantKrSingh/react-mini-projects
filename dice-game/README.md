@@ -1,12 +1,47 @@
-# React + Vite
+# Dice Game 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fun **React.js game** where you select a number and roll the dice.  
+If your guess matches the dice roll, you gain points. Otherwise, you lose points.
 
-Currently, two official plugins are available:
+This project helped me practice using **styled-components** to keep JavaScript and CSS in the same file.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Play Dice Game Here](https://cool-biscotti-e41a6d.netlify.app/)
+
+---
+
+## 🖼️ Preview
+
+![Dice Game Screenshot](./public/ScreenShot.png)
+
+---
+
+## ⚡ Features
+
+- Interactive dice rolling
+- Score tracking system
+- Number selection validation
+- Styled entirely with **styled-components** (no external CSS files)
+- Reset & Show Rules options
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Styled-Components
+
+---
+
+## 📚 What I Learned
+
+- How to use **styled-components** for styling React components
+- Writing and managing styles in the **same file** as the component
+- Handling simple game logic with React state
+- Building a fun UI without relying on CSS files
+
+---
