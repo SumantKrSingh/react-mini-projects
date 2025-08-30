@@ -25,4 +25,14 @@ A responsive contact form with reusable components, props-based customization, a
 
 ---
 
+### 3. Dice Game 🎲
+
+A fun little game where you pick a number and roll the dice — if it matches, you score points!  
+Built to practice **styled-components** and keeping styles in the same file as the component.
+
+🔗 [Live Demo](https://cool-biscotti-e41a6d.netlify.app/)  
+📂 [Source Code](./dice-game)
+
+---
+
 ✨ More projects will be added soon!
