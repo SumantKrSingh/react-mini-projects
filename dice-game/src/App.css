@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+:root {
+    font-size: 62.5%;
+    --red: #FF2929;
+    --grey: #5b5e59;
+    --white: #EFEEEA;
+    --black: #000000;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--white);
+}
