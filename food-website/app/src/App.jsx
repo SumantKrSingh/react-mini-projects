@@ -4,7 +4,9 @@ import { useEffect, useState } from "react";
 import SearchResult from "./components/SearchComponents/SearchResult.jsx";
 import Footer from "./components/SearchComponents/Footer/Footer.jsx";
 
-export const BASE_URL = "http://localhost:9000";
+// export const BASE_URL = "http://localhost:9000";
+
+export const BASE_URL = "https://react-mini-projects-6fj2.onrender.com";
 
 export default function App() {
   const [data, setData] = useState(null);
