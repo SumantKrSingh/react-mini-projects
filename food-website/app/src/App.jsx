@@ -82,9 +82,9 @@ export default function App() {
         </TopContainer>
         <FilterContainer>
           <Button onClick={() => filterFood("all")}>All</Button>
+          <Button onClick={() => filterFood("tea")}>Tea</Button>
           <Button onClick={() => filterFood("breakfast")}>Breakfast</Button>
           <Button onClick={() => filterFood("lunch")}>Lunch</Button>
-          <Button onClick={() => filterFood("tea")}>Tea</Button>
           <Button onClick={() => filterFood("dinner")}>Dinner</Button>
           {/* <Button onClick={() => filterFood("dessert")}>Dessert</Button> */}
         </FilterContainer>
