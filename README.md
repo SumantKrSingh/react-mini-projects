@@ -35,4 +35,14 @@ Built to practice **styled-components** and keeping styles in the same file as t
 
 ---
 
+### 4. Food Ordering Website 🍴
+
+A modern React app where you can browse food items, search, and filter them by category (Breakfast, Lunch, Tea, Dinner).  
+Learned how to fetch data, use **React hooks** like `useEffect`, and display results dynamically.
+
+🔗 [Live Demo](https://wonderful-licorice-fdaafb.netlify.app/)  
+📂 [Source Code](./food-website)
+
+---
+
 ✨ More projects will be added soon!
