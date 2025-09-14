@@ -45,4 +45,14 @@ Learned how to fetch data, use **React hooks** like `useEffect`, and display res
 
 ---
 
+### 5. Firebase Contact App 📒🔥
+
+A contact management app built with **React + Firebase** to practice **CRUD operations**.  
+You can add, edit, delete, and search contacts. All contacts are stored in **Firebase Realtime Database** and synced in real-time.
+
+🔗 [Live Demo](https://chipper-cannoli-3c151a.netlify.app/)  
+📂 [Source Code](./contact-app)
+
+---
+
 ✨ More projects will be added soon!
