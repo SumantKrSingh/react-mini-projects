@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBKOmFsiKi3k5DqLr1wfjz_D8jH26VLFgE",
+    apiKey: "AIzaSyBQF3y_mr7pulJoXm4Cv1CA_Kbc84u8oHk",
     authDomain: "contact-app-1dfdf.firebaseapp.com",
     projectId: "contact-app-1dfdf",
     storageBucket: "contact-app-1dfdf.firebasestorage.app",
