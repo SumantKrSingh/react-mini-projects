@@ -6,7 +6,10 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBQF3y_mr7pulJoXm4Cv1CA_Kbc84u8oHk",
+    apiKey: "AIzaSyBQF3y_mr7pulJoXm4Cv1CA_Kbc84u8oHk",   // 🔐 Public Firebase API key — safe to expose
+    // This key is restricted by domain (localhost + Netlify) and limited to specific Firebase services.
+    // No sensitive operations or data access are possible. Intentional exposure for front-end functionality.
+
     authDomain: "contact-app-1dfdf.firebaseapp.com",
     projectId: "contact-app-1dfdf",
     storageBucket: "contact-app-1dfdf.firebasestorage.app",
